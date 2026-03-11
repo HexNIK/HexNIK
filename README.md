@@ -13,3 +13,5 @@
     <img src="https://streak-stats.demolab.com/?user=HexNIK&theme=default&locale=en" alt="GitHub Streak" />
   </a>
 </div>
+
+---

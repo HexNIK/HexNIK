@@ -1,3 +1,5 @@
+---
+
 - 👋 Hi, I’m @HexNIK
 - 👀 I’m interested in PHP,C,Python, Docker, Linux, AI etc.
 - 🌱 I’m currently search one crazy bug, read one sci-fi book, learning Python and drinking ☕ coffe
